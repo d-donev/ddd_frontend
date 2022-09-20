@@ -1,0 +1,12 @@
+.text {
+  transition: 1s;
+}
+
+.text:hover {
+  background-color: #9f9f9f;
+  transition: 0.7s;
+}
+
+.text:active {
+  background-color: #50b7e7;
+}
